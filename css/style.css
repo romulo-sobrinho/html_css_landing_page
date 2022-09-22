@@ -384,6 +384,7 @@
     flex-direction: column;
     align-items: center;
     gap: 5%;
+    max-width: 20%;
   }
 
   /* Event Location */
@@ -532,7 +533,7 @@
 
   /* Call to Action Section */
   #cta .btn {
-    width: 30%;
+    width: 40%;
     opacity: 0.8;
   }
 
