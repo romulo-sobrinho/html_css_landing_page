@@ -6,7 +6,7 @@
 
 <h1 align="center">Página de Captura Fake para o Recruta Stone</h1>
 <br>
-<h2 align="center"><a href="#" target="_blank">Clique aqui e acesse o preview web</a></h2>
+<h2 align="center"><a href="https://romulo-sobrinho.github.io/html_css_landing_page" target="_blank">Clique aqui e acesse o preview web</a></h2>
 <br>
 
 ## Objetivo
@@ -17,8 +17,8 @@
 
 ## Features
   ✔️ Desenvolvimento mobile-first <br>
-  ✔️ Site responsivo para celulares, tablets, desktop e grandes telas com o auxílio de @media queries
-  ✔️ Utilização correta das metatags do HTML5<br>
+  ✔️ Site responsivo para celulares, tablets, desktop e grandes telas com o auxílio de @media queries <br>
+  ✔️ Utilização correta das metatags do HTML5 <br>
   ✔️ Utilização adequada das tags semânticas do HTML5 <br>
   ✔️ Utilização de pseudo classes no CSS <br>
   ✔️ Utilização de variáveis na pseudo classe root no CSS <br>
