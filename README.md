@@ -1,10 +1,10 @@
 ![Rômulo Sobrinho](https://user-images.githubusercontent.com/68918326/180336596-0f001ae5-5ce5-4175-bcea-78eff17add17.PNG)
 
 <hr>
-<h3 align="center">🎖️PROJETO EM CONSTRUÇÃO🎖️</h3>
+<h3 align="center">🎖️PROJETO EM FINALIZADO🎖️</h3>
 <hr>
 
-<h1 align="center">Página de Captura Fake para o Recruta Stone</h1>
+<h1 align="center">Página de Captura Fake para curso de projeto de interiores</h1>
 <br>
 <h2 align="center"><a href="https://romulo-sobrinho.github.io/html_css_landing_page" target="_blank">Clique aqui e acesse o preview web</a></h2>
 <br>
