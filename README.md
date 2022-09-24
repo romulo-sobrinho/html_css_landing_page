@@ -30,5 +30,5 @@
 ![portifólio](https://user-images.githubusercontent.com/68918326/156904839-4a6ae9f1-f265-4b19-a7c2-77ced4df38f4.PNG)
 
 <hr>
-<h3 align="center">🎖️PROJETO EM CONSTRUÇÃO🎖️</h3>
+<h3 align="center">🎖️PROJETO EM FINALIZADO🎖️</h3>
 <hr>
