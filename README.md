@@ -1,4 +1,4 @@
-![Rômulo Sobrinho](https://user-images.githubusercontent.com/68918326/180336596-0f001ae5-5ce5-4175-bcea-78eff17add17.PNG)
+![logo](https://user-images.githubusercontent.com/68918326/193332767-8248edfa-cf76-4032-8eed-05bf3037838c.PNG)
 
 <hr>
 <h3 align="center">🎖️PROJETO EM FINALIZADO🎖️</h3>
@@ -11,7 +11,7 @@
 
 ## Objetivo
 <p align="center">
-  Criar um site com HTML, CSS e JavaScript sem a utilização de frameworks, objetivando a criação de uma landing page utilizando o modelo mobile-first, bem como implementação de layouts responsivos, posicionamento e alinhamento com o uso de flexbox. Além da utilização do DOM (Document Object Model) para manipulação de elementos HTML e CSS com o javascript.
+  Criar um site com HTML, CSS sem a utilização de frameworks, objetivando a criação de uma landing page utilizando o modelo mobile-first, bem como implementação de layouts responsivos, posicionamento e alinhamento com o uso de flexbox.
 </p>
 
 
@@ -27,7 +27,7 @@
  
      
 ## Preview
-![portifólio](https://user-images.githubusercontent.com/68918326/156904839-4a6ae9f1-f265-4b19-a7c2-77ced4df38f4.PNG)
+![InDecor](https://user-images.githubusercontent.com/68918326/193332435-3d581a38-e036-4bc5-916a-0d7745eec6f1.PNG)
 
 <hr>
 <h3 align="center">🎖️PROJETO EM FINALIZADO🎖️</h3>
